@@ -1,0 +1,41 @@
+.let{
+    background-color: $bg2;
+}
+
+
+.let__img img{
+    position: relative;
+    right: 49px;
+
+    max-width: 100%;
+}
+
+.let__text{
+    padding-top: 264px;
+
+    h1{
+        width: 478px;
+        font-weight: 400;
+        font-size: 45px;
+        padding-bottom: 31px;
+    }
+
+    p{
+        color:$p;
+        width: 480px;
+        padding-bottom: 34px;
+    }
+
+    button{
+        background-color: $btn;
+        border:none;
+        color:white;
+        padding: 15px 40px;
+        border-radius: 4px;
+    }
+
+}
+
+.let__text:nth-child(1){
+    background-color: brown;
+}

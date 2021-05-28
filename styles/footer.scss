@@ -1,0 +1,31 @@
+.footer{
+    padding-top: 120px;
+    background-image: url(../img/bg__footer.png);
+
+    img{
+        padding-bottom: 48px;
+    }
+
+    p{
+        color:white;
+        width: 339px;
+        font-size: 16px;
+        padding-bottom: 22px;
+    }
+}
+
+.lung{
+    display: flex;
+
+    p{
+        color:white;
+        margin-top: -3px;
+        padding-left: 10px;
+        
+    }
+}
+
+.cop p{
+    color: rgba(255, 255, 255, 0.6);
+    padding-bottom: 120px;
+}

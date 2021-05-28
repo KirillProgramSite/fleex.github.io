@@ -1,0 +1,42 @@
+@import 'reset';
+@import 'var/color';
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,700,400);
+
+
+html{
+    font-family:Roboto;
+    font-weight: 400;
+}
+
+
+
+.wrapper{
+    display: flex;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.request button{
+    margin-top: 51px;
+    background-color: $btn;
+    border:none;
+    color:white;
+    padding: 15px 40px;
+    border-radius: 4px;
+}
+
+@import 'header';
+@import 'company';
+@import 'create';
+@import 'let';
+@import 'back';
+@import 'apart';
+@import 'working';
+@import 'footer';
+
+
+
+

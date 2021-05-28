@@ -1,0 +1,39 @@
+.back{
+    background-color: $bg2;
+}
+
+
+.back__img img{
+    position: relative;
+    right: 49px;
+
+    max-width: 100%;
+
+}
+
+.back__text{
+    padding-top: 264px;
+    padding-bottom: 194px;
+
+    h1{
+        width: 478px;
+        font-weight: 400;
+        font-size: 45px;
+        padding-bottom: 31px;
+    }
+
+    p{
+        color:$p;
+        width: 480px;
+        padding-bottom: 34px;
+    }
+
+    button{
+        background-color: $btn;
+        border:none;
+        color:white;
+        padding: 15px 40px;
+        border-radius: 4px;
+    }
+
+}

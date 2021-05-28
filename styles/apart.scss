@@ -1,0 +1,35 @@
+
+.apart{
+    padding-top: 110px;
+}
+
+.apart__title h1{
+    width: 463px;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+
+.apart__cart__wrapper{
+    padding-top: 103px;
+    padding-bottom: 143px;
+    display: flex;
+}
+
+.apart__cart{
+    padding-right: 101px;
+
+    img{
+        padding-bottom: 23px;
+    }
+
+    h1{
+        font-size: 15px;
+        font-weight: 400;
+        padding-bottom: 5px;
+    }
+
+    p{
+        color: rgba(26, 8, 0, 0.7);
+    }
+}
